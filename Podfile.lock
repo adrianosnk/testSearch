@@ -1,0 +1,75 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Differentiator (5.0.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - MaterialTextField (0.2.1)
+  - ObjectMapper (3.5.3)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxGesture (4.0.2):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - SearchTextField (1.2.4)
+  - Then (2.7.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire (~> 4.9.0)
+  - AlamofireObjectMapper (~> 5.2)
+  - IQKeyboardManagerSwift
+  - MaterialTextField
+  - RxCocoa
+  - RxDataSources
+  - RxGesture
+  - RxSwift
+  - SearchTextField (from `../`)
+  - Then
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Differentiator
+    - IQKeyboardManagerSwift
+    - MaterialTextField
+    - ObjectMapper
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - Then
+
+EXTERNAL SOURCES:
+  SearchTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  MaterialTextField: f876a39d571eeece872af6a4da421e3bd065fe0b
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxGesture: f059f2aeef966fb17dad56ee440e76410f10e55f
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SearchTextField: e7f4fd88f5a90a66467f8ed642f56711e28c4591
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+
+PODFILE CHECKSUM: 7c6848d805a9a77dd3a8e988b109ef7842a6ff64
+
+COCOAPODS: 1.9.3
